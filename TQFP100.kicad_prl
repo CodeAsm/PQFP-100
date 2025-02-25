@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -53,7 +53,7 @@
     "zone_display_mode": 0
   },
   "git": {
-    "repo_type": "",
+    "repo_type": "local",
     "repo_username": "",
     "ssh_key": ""
   },
