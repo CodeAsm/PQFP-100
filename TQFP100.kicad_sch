@@ -5,7 +5,7 @@
 	(uuid "d7e3e81d-d356-4052-bde9-f9a8cca0dd94")
 	(paper "A4")
 	(title_block
-		(title "TQFP-100 adapter board")
+		(title "PQFP-100 adapter board")
 		(date "2025-02-25")
 		(rev "1")
 		(company "TMG")
@@ -3581,6 +3581,10 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(no_connect
+		(at 88.9 -173.99)
+		(uuid "e580aacf-8c7e-483f-8bf1-553d964a2c56")
 	)
 	(wire
 		(pts
