@@ -597,7 +597,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/b8ea22d9-6e8d-4558-94ed-6b4d3967e50e")
 		(sheetname "/")
-		(sheetfile "TQFP100.kicad_sch")
+		(sheetfile "PQFP100.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 36.89)
@@ -1470,7 +1470,7 @@
 		)
 		(path "/8cb458ba-007a-40e0-88a0-9cf550afc735")
 		(sheetname "/")
-		(sheetfile "TQFP100.kicad_sch")
+		(sheetfile "PQFP100.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 7.11 -10.11)
@@ -2936,7 +2936,7 @@
 		(property ki_fp_filters "Connector*:*_2x??-1MP*")
 		(path "/5afe9156-daeb-440e-bd7b-f7fc5962fbc1")
 		(sheetname "/")
-		(sheetfile "TQFP100.kicad_sch")
+		(sheetfile "PQFP100.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -3608,7 +3608,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/e2897414-1fb8-42a7-88e2-7c21b1d27686")
 		(sheetname "/")
-		(sheetfile "TQFP100.kicad_sch")
+		(sheetfile "PQFP100.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.33)
@@ -4291,7 +4291,7 @@
 		(property ki_fp_filters "Connector*:*_2x??-1MP*")
 		(path "/87af4ad5-21da-4035-9a86-736fafb20818")
 		(sheetname "/")
-		(sheetfile "TQFP100.kicad_sch")
+		(sheetfile "PQFP100.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.33)
